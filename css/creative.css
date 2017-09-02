@@ -141,6 +141,10 @@ body {
 iframe {
   width: 100%; }
 
+.btn-responsive {
+  white-space: normal !important;
+  word-wrap: break-word; }
+
 header.masthead {
   position: relative;
   width: 100%;
